@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/adgo641t/adgo641t/output/snake.svg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=ed8f29ad8a50d2062278c423151455bd41aad67b36fff5a92598b22edcb192ef&ipo=images)" alt="Snake animation" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=ed8f29ad8a50d2062278c423151455bd41aad67b36fff5a92598b22edcb192ef&ipo=images" alt="Snake animation" />
 
 ###
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>

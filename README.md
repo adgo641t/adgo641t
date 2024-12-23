@@ -1,6 +1,7 @@
 <br clear="both">
-
-<img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=ed8f29ad8a50d2062278c423151455bd41aad67b36fff5a92598b22edcb192ef&ipo=images" alt="Snake animation" />
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=ed8f29ad8a50d2062278c423151455bd41aad67b36fff5a92598b22edcb192ef&ipo=images" alt="Snake animation" />
+</p>
 
 ###
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
@@ -76,10 +77,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/9au02y.jpg"  />
 
 ###
 
